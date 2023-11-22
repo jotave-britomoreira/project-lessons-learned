@@ -1,4 +1,4 @@
-# project-lessons-learned
+# Lessons Learned
 
 
 Este repositório contém o projeto de desenvolvimento web 'project-lessons-learned' proposto pela Trybe, que tem como objetivo consolidar o conhecimento adquirido em HTML e CSS.
