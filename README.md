@@ -6,8 +6,12 @@ O projeto consiste na criação de um site do zero, utilizando as principais tag
 
 Os objetivos específicos do projeto são:
 
-Entender como funciona a estrutura (HTML) de uma página; <br>
+Entender como funciona a estrutura (HTML) de uma página;
+
 Entender como o estilo (CSS) é aplicado à página;
-Construir páginas utilizando HTML e CSS;
+
+Construir páginas utilizando HTML e CSS
+
 Realizar manutenções em páginas já existentes;
+
 Aplicar Layout e Box Model na prática.
